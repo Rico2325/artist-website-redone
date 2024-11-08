@@ -1,0 +1,22 @@
+table {
+  border: 3px solid black;
+  position: absolute;
+  top: 450px;
+  left: 300px;
+}
+body{
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2023/10/Bad-Bunny-lawsuits.jpg"); /* The image used */<img src="" alt=""width="450px" >
+ 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#table2 {
+  border: 3px solid black;
+  position: absolute;
+  top: 1200px;
+  left: 400px;
+
+
+}
